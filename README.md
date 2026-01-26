@@ -45,5 +45,5 @@
 ## My Status in the Void
 
 <a href="https://discord.com/users/1464736434463445082">
-  <img src="https://lanyard.cnrad.dev/api/1464736434463445082?theme=dark&bg=161b22&borderRadius=10px" />
+  <img src="https://img.shields.io/badge/Discord-%20Online-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>

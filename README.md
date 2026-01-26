@@ -23,5 +23,5 @@
 ## Tools & Artifacts
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,vscode,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,gitlab,vscode,python,java,c&theme=dark" />
 </a>

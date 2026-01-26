@@ -26,14 +26,17 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,mint,&theme=dark" />
 </a>
+
 ### Softwares
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,clion,phpstorm,discord,figma,notion,obsidian,stackoverflow,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,idea,pycharm,clion,phpstorm,figma,stackoverflow,discord,obsidian,notion&theme=dark" />
 </a>
+
 ### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,bash,postgres&theme=dark" />
 </a>
+
 ### Frameworks
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" />

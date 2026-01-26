@@ -45,5 +45,5 @@
 ## My Status in the Void
 
 <a href="https://discord.com/users/1464736434463445082">
-  <img src="https://lanyard-readme-badges.vercel.app/api/1464736434463445082?theme=dark&bg=161b22&mode=compact&v=99" />
+  <img src="https://lanyard.cnrad.dev/api/1464736434463445082?theme=dark&bg=161b22&borderRadius=10px" />
 </a>

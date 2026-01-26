@@ -42,6 +42,12 @@
   <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" />
 </a>
 
+## The Trophy Room
+
+<div align="center">
+  <img src="https://github.com/SirRNCB/SirRNCB/blob/main/achievements.svg?raw=true" width="100%" />
+</div>
+
 ## Badges
 
 <p align="left">

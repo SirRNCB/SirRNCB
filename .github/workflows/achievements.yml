@@ -19,9 +19,8 @@ jobs:
           user: SirRNCB
           
           # Base options
-          base: "" # Keep this empty so it only generates achievements
+          base: "" 
           config_timezone: Europe/Paris
-          config_theme: dark
           
           # The Achievements Plugin (Detailed Mode)
           plugin_achievements: yes

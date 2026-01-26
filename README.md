@@ -15,3 +15,7 @@
 ## A Daily Dose of Dev Humor
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+## The Languages that I use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirRNCB&layout=compact&bg_color=161b22&title_color=DC143C&text_color=ffffff&icon_color=DC143C&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

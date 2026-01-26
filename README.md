@@ -19,3 +19,9 @@
 ## The Languages that I use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirRNCB&layout=compact&bg_color=161b22&title_color=DC143C&text_color=ffffff&icon_color=DC143C&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tools & Artifacts
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,vscode,python&theme=dark" />
+</a>

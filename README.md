@@ -42,14 +42,16 @@
   <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" />
 </a>
 
-## My Status in the Void
+## Badges
 
-<a href="https://discord.com/users/1464736434463445082">
-  <img src="https://img.shields.io/badge/Discord-Online-5865F2?style=flat&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:sir.rncb.author@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location: The Hall of Ink" />
-<img src="https://img.shields.io/badge/Main_Weapon-HTML-F7DF1E?style=flat&logo=html&logoColor=black" alt="Weapon: HTML" />
-<img src="https://img.shields.io/badge/Allegiance-Nazgûl-DC143C?style=flat&logo=ghost&logoColor=white" alt="Nazgul" />
+<p align="left">
+  <a href="https://discord.com/users/1464736434463445082">
+    <img src="https://img.shields.io/badge/Discord-Online-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:sir.rncb.author@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location" />
+  <img src="https://img.shields.io/badge/Main_Weapon-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="Weapon HTML" />
+  <img src="https://img.shields.io/badge/Allegiance-Nazgûl-DC143C?style=flat&logo=ghost&logoColor=white" alt="Nazgul" />
+</p>

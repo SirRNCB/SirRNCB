@@ -8,7 +8,7 @@
 
 ![Nazgul Counter](https://lotr-counter.vercel.app/get/@SirRNCB?theme=nazgul)
 
-## Fun snake game animation with GitHub contributions (not mine)
+## Fun snake game animation with GitHub contributions of Linus Torvalds
 
 ![Snake animation](https://github.com/SirRNCB/SirRNCB/raw/output/github-contribution-grid-snake.svg)
 

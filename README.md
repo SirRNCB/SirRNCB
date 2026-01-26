@@ -41,3 +41,9 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" />
 </a>
+
+## My Status in the Void
+
+<a href="https://github.com/Phineas/lanyard">
+  <img src="https://lanyard.cnrad.dev/api/1464736434463445082?theme=dark&bg=161b22&animated=true&hide_discrim=true&borderRadius=5px&idleMessage=In%20the%20Void..." />
+</a>

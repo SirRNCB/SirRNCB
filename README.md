@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rank-Void_Walker-161b22?style=for-the-badge&logo=ghost&logoColor=DC143C" />
-<img src="https://img.shields.io/badge/Level-01-blue?style=for-the-badge&logo=shoujo&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Awakened-orange?style=for-the-badge&logo=rss&logoColor=white" />
+<img src="https://img.shields.io/badge/Rank-Void_Walker-161b22?style=flat&logo=ghost&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Level-01-blue?style=flat&logo=shoujo&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Awakened-orange?style=flat&logo=rss&logoColor=white" />
 
 <br/>
 

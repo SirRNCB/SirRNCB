@@ -23,5 +23,8 @@
 ## Tools & Artifacts
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,gitlab,vscode,python,java,c&theme=dark" />
+  <p>Languages</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c&theme=dark" />
+  <p>Softwares</p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,jetbrains&theme=dark" />
 </a>

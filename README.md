@@ -44,20 +44,6 @@
 
 ## The Trophy Room
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Rank-Void_Walker-161b22?style=flat&logo=ghost&logoColor=DC143C" />
-<img src="https://img.shields.io/badge/Level-01-blue?style=flat&logo=shoujo&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Awakened-orange?style=flat&logo=rss&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/First_Commit-2026-brightgreen?style=flat&logo=git-commit&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-2-yellow?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Creative_Mode-ON-violet?style=flat&logo=dungeonsanddragons&logoColor=white" />
-
-</div>
-
 ## Badges
 
 <p align="left">

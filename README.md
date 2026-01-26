@@ -45,7 +45,9 @@
 ## The Trophy Room
 
 <div align="center">
-  <img src="https://github.com/SirRNCB/SirRNCB/blob/main/achievements.svg?raw=true" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SirRNCB&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
 ## Badges

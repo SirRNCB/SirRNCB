@@ -4,7 +4,7 @@
 
 ## Custom profile visitor counter
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=DC143C&width=500&lines=There+is+no+Life+in+the+Void.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=DC143C&width=500&lines=You+cannot+hide.;I...+see...+you...;There+is+no+Life+in+the+Void,+only+death.)](https://git.io/typing-svg)
 
 ![Nazgul Counter](https://lotr-counter.vercel.app/get/@SirRNCB?theme=nazgul)
 

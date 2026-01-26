@@ -45,5 +45,11 @@
 ## My Status in the Void
 
 <a href="https://discord.com/users/1464736434463445082">
-  <img src="https://img.shields.io/badge/Discord-%20Online-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Online-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
+<a href="mailto:sir.rncb.author@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Location-The_Void-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location: The Void" />
+<img src="https://img.shields.io/badge/Main_Weapon-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Weapon: JS" />
+<img src="https://img.shields.io/badge/Allegiance-Nazgûl-DC143C?style=flat&logo=ghost&logoColor=white" alt="Nazgul" />

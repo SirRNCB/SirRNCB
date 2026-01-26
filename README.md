@@ -22,19 +22,19 @@
 
 ## Tools & Artifacts
 
-<p>Operating Systems</p>
+### Operating Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,mint,&theme=dark" />
 </a>
-<p>Softwares</p>
+### Softwares
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,pycharm,clion,phpstorm,discord,figma,notion,obsidian,stackoverflow,vim&theme=dark" />
 </a>
-<p>Languages</p>
+### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,bash,postgres&theme=dark" />
 </a>
-<p>Frameworks</p>
+### Frameworks
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" />
 </a>

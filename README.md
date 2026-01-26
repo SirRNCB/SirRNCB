@@ -45,9 +45,17 @@
 ## The Trophy Room
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SirRNCB&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+
+<img src="https://img.shields.io/badge/Rank-Void_Walker-161b22?style=for-the-badge&logo=ghost&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Level-01-blue?style=for-the-badge&logo=shoujo&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Awakened-orange?style=for-the-badge&logo=rss&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/First_Commit-2026-brightgreen?style=flat&logo=git-commit&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-2-yellow?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Creative_Mode-ON-violet?style=flat&logo=dungeonsanddragons&logoColor=white" />
+
 </div>
 
 ## Badges

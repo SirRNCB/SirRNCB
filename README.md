@@ -11,3 +11,7 @@
 ## Fun snake game animation with GitHub contributions (not mine)
 
 ![Snake animation](https://github.com/SirRNCB/SirRNCB/raw/output/github-contribution-grid-snake.svg)
+
+## A Daily Dose of Dev Humor
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)

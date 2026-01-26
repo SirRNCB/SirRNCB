@@ -50,6 +50,6 @@
 <a href="mailto:sir.rncb.author@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://img.shields.io/badge/Location-The_Void-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location: The Void" />
-<img src="https://img.shields.io/badge/Main_Weapon-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Weapon: JS" />
+<img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location: The Hall of Ink" />
+<img src="https://img.shields.io/badge/Main_Weapon-HTML-F7DF1E?style=flat&logo=html&logoColor=black" alt="Weapon: HTML" />
 <img src="https://img.shields.io/badge/Allegiance-Nazgûl-DC143C?style=flat&logo=ghost&logoColor=white" alt="Nazgul" />

@@ -51,7 +51,10 @@
   <a href="mailto:sir.rncb.author@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-DC143C?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location" />
-  <img src="https://img.shields.io/badge/Main_Weapon-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="Weapon HTML" />
-  <img src="https://img.shields.io/badge/Allegiance-Sauron-DC143C?style=flat&logo=ghost&logoColor=white" alt="Sauron" />
+  <a href="https://discord.gg/4aHmd7aCVG">
+    <img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location" />
+  </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/Main_Weapon-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="Weapon HTML" />
+  </a>
 </p>

@@ -53,5 +53,5 @@
   </a>
   <img src="https://img.shields.io/badge/Location-The_Hall_of_Ink-161b22?style=flat&logo=google-maps&logoColor=DC143C" alt="Location" />
   <img src="https://img.shields.io/badge/Main_Weapon-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="Weapon HTML" />
-  <img src="https://img.shields.io/badge/Allegiance-Nazgûl-DC143C?style=flat&logo=ghost&logoColor=white" alt="Nazgul" />
+  <img src="https://img.shields.io/badge/Allegiance-Sauron-DC143C?style=flat&logo=ghost&logoColor=white" alt="Sauron" />
 </p>
